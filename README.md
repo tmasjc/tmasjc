@@ -1,25 +1,26 @@
 ```
-           ,,                               .-.
-          || |                               ) )
-          || |   ,                          '-'
-          || |  | |
-          || '--' |
-    ,,    || .----'		Code + Data + 🧐 
-   || |   || |
-   |  '---'| |
-   '------.| |                                  _____
-   ((_))  || |      (  _                       / /|\ \
-   (o o)  || |      ))("),                    | | | | |
-____\_/___||_|_____((__^_))____________________\_\|/_/__ldb
+Once when I was ...
+
+									           ,,                               .-.
+									          || |                               ) )
+									          || |   ,                          '-'
+									          || |  | |
+									          || '--' |
+									    ,,    || .----'					~🛸
+									   || |   || |
+									   |  '---'| |
+									   '------.| |                                  _____
+									   ((_))  || |      (  _                       / /|\ \
+									   (o o)  || |      ))("),                    | | | | |
+ ________________________\_\|/_/________\_/___||_|_____((__^_))____________________\_\|/_/_______\_\|/_/____🐿
 ```
 
 ## About Me
-* I work in applied analytics
+* I work in applied analytics in the ed-tech space 
 * Currently reside in Beijing, China
 * Mostly code in R, Python, Javascript
 * I build data products in R/Shiny, ship with Docker
 * Learning graph analytics and functional programming
-* I work in the Ed-tech space 
 * Previously head of data intelligence @ [Knowbox](https://www.knowbox.cn/)
 * Currently growth strategist @ [Walnut Academy](https://www.hetao101.com/)
 
