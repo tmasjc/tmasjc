@@ -1,5 +1,4 @@
 ```
-Once when I was ...
 
                                  ,,                               .-.
                                 || |                               ) )
@@ -15,7 +14,7 @@ Once when I was ...
 __________________________\_/___||_|_____((__^_))____________________\_\|/_/________🐿__________________________ 
 ```
 
-## About Me
+**About Me**
 * I work in applied analytics in the ed-tech space.
 * Currently reside in Beijing, China.
 * Mostly code in R, Python, Javascript.
@@ -24,7 +23,7 @@ __________________________\_/___||_|_____((__^_))____________________\_\|/_/____
 * Previously head of data intelligence @ [Knowbox](https://www.knowbox.cn/).
 * Currently growth strategist @ [Walnut Academy](https://www.hetao101.com/).
 
-
+----
 <p align='left'>
   
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
