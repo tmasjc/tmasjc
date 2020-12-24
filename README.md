@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/lifecycle----maturing----blue.svg)
+![](https://img.shields.io/badge/lifecycle-maturing-blue.svg)
 
 I code to visualize, model & deliver **patterns**.
 
