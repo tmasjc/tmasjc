@@ -2,12 +2,12 @@
 
 I code to visualize, model & deliver **patterns**.
 
-Tools agnostics, though thinking primarily in *R*  › *Python*  › *Javascript* 
+Tools agnostics, thinking primarily in *#rstats*  *#python*  *#javascript*.
 
-*reproducible* ---- *bayesian* ---- *abtest* ---- *simulation*   <br>
-*graph* ---- *functional* ---- *reactive* ---- *metaprogramming*  <br>
-*dashboard* ---- *automata* ---- *serverless* ---- *systems* <br>
+*`reproducible`* --- *`bayesian`* ---  *`abtest`* ---  *`simulation`*   <br>
+*`graph`* ---  *`functional`* ---  *`reactive`* ---  *`metaprogramming`*  <br>
+*`dashboard`* ---  *`automata`* ---  *`serverless`* ---  *`systems`* <br>
 
-<span style="font----size:small">On MacBook Pro (2018)  </span>
+<span style="font-size:small">On macOS  Big Sur  </span>
 
 
