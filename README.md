@@ -1,14 +1,19 @@
 ![](https://img.shields.io/badge/lifecycle-maturing-blue.svg)
 
-I code to visualize, model and deliver patterns. 
+I code to visualize, model and deliver patterns,
 
-Primarily in 
-*#rstats*  🥷🏻 *#python*  🐍   *#javascript*  🍰
+using
 
-tags:
+*#rstats*  🥷🏻 
 
-*`reproducible`* --- *`bayesian`* ---  *`abtest`* ---  *`simulation`*   <br>
-*`graph`* ---  *`functional`* ---  *`reactive`* ---  *`metaprogramming`*  <br>
-*`dashboard`* ---  *`automata`* ---  *`serverless`* ---  *`systems`* <br>
+*#python*  🐍   
 
-<span style="font-size:small">On macOS  Big Sur  </span>
+*#javascript*  🍰
+
+in
+
+*`reproducible`* , *`bayesian`* ,  *`abtest`* ,  *`simulation`*   <br>
+*`graph`* ,  *`functional`* ,  *`reactive`* ,  *`metaprogramming`*  <br>
+*`dashboard`* ,  *`automata`* ,  *`serverless`* ,  *`systems`* <br>
+
+<span style="font-size:small">on macOS  Big Sur  </span>.
