@@ -4,11 +4,7 @@ I code to visualize, model and deliver patterns,
 
 using
 
-*#rstats*  🥷🏻 
-
-*#python*  🐍   
-
-*#javascript*  🍰
+*#rstats*  🥷🏻 &nbsp;&nbsp;&nbsp; *#python*  🐍   &nbsp;&nbsp;&nbsp; *#javascript*  🍰
 
 in
 
